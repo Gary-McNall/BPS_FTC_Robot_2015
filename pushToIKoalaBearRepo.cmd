@@ -1,3 +1,3 @@
 git add *
-git commit -m "yet another push"
+git commit -m %1
 git push -u origin master
